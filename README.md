@@ -1,7 +1,7 @@
 # website
 Website repo
 
-teams-info
+**/teams-info**
 This folder contains the folders/files with the pictures and bios of the team members, acording the following structure
   * A different folder per team 
   * github-id.bio.md file with the bio
