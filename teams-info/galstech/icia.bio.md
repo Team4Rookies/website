@@ -1,0 +1,2 @@
+Icia Carro Barallobre is a member of the Barkibu team, as a Data Science and Machine Learning expert, helping to create new AI-powered healthcare for pets.  She is also a member of HelloSister (@hello\_sisters\_) which help future female computer engineers to develop publicly and technically. 
+@iciac
