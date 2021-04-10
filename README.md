@@ -9,20 +9,14 @@ This folder contains the folders/files with the pictures and bios of the team me
 
 ##  How to develop
 
-1 - Run the following commands to build the project
+1 - Install npm dependencies
 ```
 $ npm install
-$ npm run build
 ```
 
-2 - Start a typescript build server
-```
-$ npx tsc --watch
-```
-
-3 - Start a Next.js development server with
+2 - Start a Next.js development server with
 ```
 $ npm run dev
 ```
 
-4 - Edit website in src folder
+3 - Edit website in src folder
