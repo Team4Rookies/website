@@ -32,6 +32,9 @@ const Members = ({ membersData }: MembersPage) => {
               )}
               <h3>About</h3>
               <p>{member.about}</p>
+              {member.social.twitter && (
+                <a href={member.social.twitter}>Twitter</a>
+              )}
             </div>
           );
         })}
