@@ -4,9 +4,9 @@
   "description": "Website repo",
   "main": "index.js",
   "scripts": {
-    "start": "cd dist && next start",
-    "build": "tsc && cd dist && next build",
-    "dev": "cd dist && next dev",
+    "start": "next start",
+    "build": "next build",
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
