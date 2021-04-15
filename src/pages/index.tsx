@@ -1,11 +1,11 @@
-import { Header } from "../components/Header";
+import { Layout } from "../components/Layout";
 
 const Index = () => {
   return (
-    <div>
-      <Header />
+    <Layout>
       <h1>Team 4 Rookies</h1>
-    </div>
+      <h2>A Collaborative Learning Program</h2>
+    </Layout>
   );
 };
 
