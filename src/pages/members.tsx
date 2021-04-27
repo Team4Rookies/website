@@ -1,6 +1,5 @@
 import fs from "fs";
 import { GetServerSideProps } from "next";
-import { Header } from "../components/Header";
 
 type MemberData = {
   about: string;
@@ -19,7 +18,6 @@ type MembersPage = {
 const Members = ({ membersData }: MembersPage) => {
   return (
     <div>
-      <Header />
       <div>
         {membersData.map((member) => {
           return (
